@@ -3,7 +3,7 @@
 ![Evosite offices](https://raw.githubusercontent.com/aran112000/aran112000/master/cover_photo.jpg)
 
 #### We're recruiting
-We're always on the hunt for great PHP devs to join our team. If you're interested to learn more about the opertunities at Evosite, then drop me a line
+We're always on the hunt for great PHP devs to join our team. If you're interested to learn more about the opportunities at Evosite, then drop me a line
 
 🔭 **I'm currently working on ...**
  - Upgrading a legacy PHP app to be serverless on AWS
