@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Aran 👋
 
-<!--
-**aran112000/aran112000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Evosite offices](cover_photo.jpg)
 
-Here are some ideas to get you started:
+#### We're recruiting
+We're always on the hunt for great PHP devs to join our team. If you're interested to learn more about the opertunities at Evosite, then drop me a line
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **I'm currently working on ...**
+ - Upgrading a legacy PHP app to be serverless on AWS
+ - Writing new integrations for Klarna and Amazon Pay
+ 
+💬 **Ask me about ...**
+ - PHP
+ - AWS / Serverless PHP
+ 
+ 
